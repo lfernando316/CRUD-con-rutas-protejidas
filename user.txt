@@ -1,0 +1,9 @@
+{
+  "first_name": "luis",
+  "last_name": "salcedo",
+  "user_name": "luisfer",
+  "email": "luis@hotmail.com",
+  "password": "root",
+  "age": "26",
+  "country": "col"
+}
